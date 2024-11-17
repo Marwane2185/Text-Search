@@ -17,6 +17,6 @@ To run unit tests written for jest (3 tests):
 
 This will trigger the following tests :
 
-? renders Search Component
-? find articles by search
-? find only one article by search
+ - renders Search Component
+ - find articles by search
+ - find only one article by search
