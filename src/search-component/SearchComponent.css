@@ -1,0 +1,24 @@
+.main-div {
+  text-align: left;
+  margin-left: 100px;
+}
+
+.input {
+  width: 400px;
+  height: 30px;
+  margin-top: 30px;
+}
+
+.article-div {
+  line-height: 1.5;
+  border-bottom: 1px solid #aaa;
+}
+
+.found-posts-label {
+  font-weight: bold;
+}
+
+.highlighted {
+  background-color: yellow;
+  color: black;
+}
